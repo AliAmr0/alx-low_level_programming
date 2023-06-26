@@ -5,7 +5,7 @@
  *
  * @str: str is a pointer to string parameter
  *
- * Return: void (co return)
+ * Return: void (no return)
  */
 
 void puts2(char *str)
