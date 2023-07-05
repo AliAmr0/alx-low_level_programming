@@ -1,13 +1,12 @@
 #include "main.h"
 
 /**
- * is_prime_number ->
- * a function that returns 1 if the input integer is a prime number,
- * otherwise return 0.
+ * is_prime_number -> a function that returns 1 if the input integer
+ * is a prime number otherwise return 0
  *
- * @n: n is an integer argument.
+ * @n: n is an int argument
  *
- * Return: 1 if the input integer is a prime number, otherwise return 0.
+ * Return: int
  */
 
 int is_prime_number(int n)
@@ -16,14 +15,13 @@ int is_prime_number(int n)
 }
 
 /**
- * _prime ->
- * a function that returns 1 if the input integer is a prime number,
- * otherwise return 0.
+ * _prime -> a function that returns 1 if the input integer is a prime number,
+ * otherwise return 0
  *
- * @i: i is an integer argument.
- * @n: n is an integer argument.
+ * @i: i is an int argument.
+ * @n: n is an int argument.
  *
- * Return: 1 if the input integer is a prime number, otherwise return 0.
+ * Return: int
  */
 
 int _prime(int i, int n)
