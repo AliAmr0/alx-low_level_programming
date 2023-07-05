@@ -34,4 +34,3 @@ int _sqrt(int l, int n)
 	else
 		return (_sqrt(l + 1, n));
 }
-}
